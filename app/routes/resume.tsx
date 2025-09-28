@@ -6,7 +6,7 @@ import Summary from "~/components/Summary";
 import { usePuterStore } from "~/lib/puter";
 
 export const meta = ()=> ([
-    { title: 'Resume Analyzer | Resume Revive' },
+    { title: 'Applylytics | Resume Revive' },
     { name: 'description', content: 'Analyze your resume with AI-powered feedback' },
 ])
 
